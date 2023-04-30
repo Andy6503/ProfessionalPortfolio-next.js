@@ -83,9 +83,10 @@ const resume = () => {
             <span className='px-2'>|</span>Copywriting
             <span className='px-2'>|</span>Strategy Development
             <span className='px-2'>|</span>Social Media Marketing
+            <span className='px-2'>|</span>Email Marketing
+            <span className='px-2'>|</span>Video Marketing
             <span className='px-2'>|</span>Content Creation
             <span className='px-2'>|</span>Market Research and Analysis
-            <span className='px-2'>|</span>Email Marketing
             <span className='px-2'>|</span>Digital Marketing tools
             <span className='px-2'>|</span>Communication
           </p>
