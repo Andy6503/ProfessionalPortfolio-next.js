@@ -49,15 +49,12 @@ const resume = () => {
           </div>
         </div>
         <p>
-          Analytical, innovative, and motivated web development professional
-          with experience in customer service, team leadership, and
-          organizational effectiveness in fast-paced and challenging
-          environments. Adept at developing strategies and driving streamlined
-          operations. Diverse analytical skills, team collaboration, and
-          relationship building. Consummate professional, and motivated leader,
-          with solid interpersonal abilities and complex problem-solving skills.
-          Effective and proven track record of critical thinking, idea
-          generation, and optimizing efficiencies.
+          Innovative, analytical, and motivated digital marketing professional
+          with experience in customer service, client relations, team leadership, 
+          frontend web development. Proven organizational effectiveness in fast-paced 
+          and challenging environments. Diverse market and competitor analytical skills,
+          team collaboration experience, and relationship building methods. Consummate professional and 
+          motivated leader with solid interpersonal abilities and complex problem-solving skills.
         </p>
 
         {/* Skills */}
