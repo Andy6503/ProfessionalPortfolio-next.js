@@ -13,25 +13,18 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
-            I specialize in market analysis and research to create marketing 
-            strategies that don't just bring results, but disrupt industries. 
-            I’m always excited about learning new skills and understand there is
-            more than one way to accomplish a task. I am also proficient in building 
-            front-end applications using HTML, CSS, Javascript, and
-            React. I use this knowledge to not only develop web applications,
-            but to offer a superior approach to implemeting online marketing 
-            strategies. I am a quick learner and can pick up new skills and 
-            important knowledge as needed. I believe that being a digital marketing
-            expert is not just providing a sales page or an instagram caption, 
-            but about working with others to achieve greatness.
+          I am a very passionate digital marketing expert and front-end developer. I bring unexpected marketing strategies to 
+          not just give you results but to give your business a new breath of life. I am all about learning new skills, and I 
+          always work hard to improve myself in all aspects. I am also very proficient in building front-end applications using 
+          HTML, CSS, Javascript, React, and many other technologies. I use this knowledge to not only develop web applications but 
+          also to offer a superior approach to implementing online marketing strategies. I am a quick learner and can pick up new 
+          skills and important knowledge whenever necessary. I believe that being a digital marketing expert is not just about 
+          providing a sales page or an email, but about working with others to achieve greatness.
           </p>
           <p className='py-2 text-gray-600'>
-            I started web developement in 2013 managing multiple e-commerce
-            websites on CMS platforms such as WordPress, BigCommerce, and
-            Shopify. I have experience working directly with clients and taking
-            mock wireframes all the way to deployed applications. In my spare
-            time I run Code Commerce, a Youtube channel where I teach web
-            developement and various front-end technologies.
+          I started digital marketing in September 2022. I have been honing my craft 
+          day-in and day-out. I know and practice everything, from emails to video scripts, 
+          and I will not give you my work until I can bet my life that it will achieve results. 
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>

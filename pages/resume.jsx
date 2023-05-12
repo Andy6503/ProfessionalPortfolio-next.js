@@ -51,9 +51,9 @@ const resume = () => {
         <p>
           Innovative, analytical, and motivated digital marketing professional
           with experience in customer service, client relations, team leadership, 
-          frontend web development. Proven organizational effectiveness in fast-paced 
+          front-end web development. Proven organizational effectiveness in fast-paced 
           and challenging environments. Diverse market and competitor analytical skills,
-          team collaboration experience, and relationship building methods. Consummate professional and 
+          team collaboration experience, and relationship building methods. A consummate professional and 
           motivated leader with solid interpersonal abilities and complex problem-solving skills.
         </p>
 
@@ -111,7 +111,7 @@ const resume = () => {
               build, deploy, manage, and govern APIs.
             </li>
             <li>
-               Will achieve a MuleSoft Developer Certification upon completion of the Intership and course
+               Will achieve a MuleSoft Developer Certification upon completion of the Intership and course.
             </li>
           </ul>
         </div>
@@ -121,7 +121,7 @@ const resume = () => {
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
-              Copywriter and Digtial Marketing Consultant
+              Copywriter and Digtial Marketing Expert
             </span>
             <span className='px-2'>|</span>New York, NY/Online
           </p>
@@ -153,29 +153,57 @@ const resume = () => {
             <span className='font-bold'>Swifto</span>
             <span className='px-2'>|</span>New York, NY
           </p>
-          <p className='py-1 italic'>Private Dog Walker (November 2023 - Current)</p>
+          <p className='py-1 italic'>Private Dog Walker (November 2021 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              Required to meet certain time windows set out by the client to walk their dog or dogs for 
+              Required to meet certain time windows set out by the client and walk their dog or dogs for 
               any amount of time between 20 minutes to an overnight stay.
             </li>
             <li>
-              Conducted myself in a friendly and professional manner while speaking with clients about 
-              their wants and needs for their pets. I always make sure to cover everything I need to know to
-              provide the best care and experience for their dog or dogs.
+              I conduct myself in a friendly and professional manner while speaking with clients about their wants 
+              and needs for their pets. I always make sure to cover everything I need to know to provide the best 
+              care and experience for their dog or dogs.
             </li>
             <li>
-              Handled countless dogs with all types of behaviors and triggers in a professional manner.
-              Have recieved countless compliemets from clients on my friendly attuitude
-              and my ability to handle their pet effectively and still bond with them. 
+              Handled countless dogs with all types of behaviors and triggers in a professional manner. I have received 
+              countless compliments from clients on my friendly attitude and my ability to handle their pets effectively 
+              and still bond with them. 
             </li>
             <li>
               Provided above and beyond service to ensure best walk for the dog or dogs everytime. Paying 
               attention to their reactions and responses, I always make sure to do what the dog enjoys most.
             </li>
             <li>
-              Always made sure to conduct myself in a professional and respectful manner when entering or
-              staying in a client home.
+             I always make sure to conduct myself in a professional and respectful manner when entering or
+             staying in a client home.
+            </li>
+          </ul>
+        </div>
+
+        <div className='py-6'>
+          <p className='italic'>
+            <span className='font-bold'>Chipotle</span>
+            <span className='px-2'>|</span>El Paso, TX
+          </p>
+          <p className='py-1 italic'>Crew Member (May 2020 - September 2021)</p>
+          <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
+            <li>
+            I worked mostly as a cashier and was required to handle all transactions both in person and online. I maintained a 
+            friendly attitude even when handling many transactions at once to ensure the best experience.
+            </li>
+            <li>
+            I was responsible for cleaning and maintaining the lobby. I would sweep, mop, wipe, and stock while maintaining an 
+            efficient and smooth flow of business. I was also responsible for preparing my station for the next shift, which 
+            included deep cleaning, preping, stocking, and counting my cash drawer. 
+            </li>
+            <li>
+            I was also stationed on the line some days. In this position, I was responsible for taking and preparing orders for 
+            both in person and online customers. I was required to keep my station clean and stocked while following all food safety 
+            rules.
+            </li>
+            <li>
+              I would always find away to stay busy and made sure to help out when the need arose. I did my best to work well with
+              everyone keep a funny and fun attitude with my coworkers and managers.
             </li>
           </ul>
         </div>
