@@ -13,18 +13,20 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
-          I am a very passionate digital marketing expert and front-end developer. I bring unexpected marketing strategies to 
-          not just give you results but to give your business a new breath of life. I am all about learning new skills, and I 
-          always work hard to improve myself in all aspects. I am also very proficient in building front-end applications using 
-          HTML, CSS, Javascript, React, and many other technologies. I use this knowledge to not only develop web applications but 
-          also to offer a superior approach to implementing online marketing strategies. I am a quick learner and can pick up new 
-          skills and important knowledge whenever necessary. I believe that being a digital marketing expert is not just about 
-          providing a sales page or an email, but about working with others to achieve greatness.
+          I am a results-driven digital marketing expert and experienced front-end developer who specializes in breathing new life 
+          into businesses. With a deep understanding of technologies such as HTML, CSS, Javascript, React, and more, I develop dynamic 
+          web applications and use this knowledge offer a superior approach to implementing online marketing strategies. I thrive on 
+          collaboration, working hand-in-hand with clients to achieve remarkable success. I believe the mark of a true digital marketing 
+          expert is their ability to deliver tailored solutions that truly compel the reader to take action. Let's create greatness together.
           </p>
           <p className='py-2 text-gray-600'>
-          I started digital marketing in September 2022. I have been honing my craft 
-          day-in and day-out. I know and practice everything, from emails to video scripts, 
-          and I will not give you my work until I can bet my life that it will achieve results. 
+          I embarked on my digital marketing journey in September 2022, driven by a deep desire to help those who bring geniune
+          value through their business find their audience. Every day since, I've immersed myself in refining my skills, crafting 
+          compelling emails, and creating captivating video scripts that command attention. I seek to improve and I hone my craft 
+          through hands-on experience, continuous learning, and staying at the forefront of industry trends. It's not just about 
+          knowing digital marketing; it's about understanding the intricacies and nuances that lead to undeniable success. I hold 
+          myself to the highest standards and won't deliver my work until I'm confident enough to stake my life on its ability to 
+          generate results for you.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
