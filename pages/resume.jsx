@@ -133,7 +133,7 @@ const resume = () => {
             </li>
             <li>
               Expert level experience in many forms of copy inculding email sequences, landing pages, sales funnels, 
-              product pages, sales pitchs, and more. 
+              product pages, sales pitches, and more. 
             </li>
             <li>
               Able to work effectively with many different areas of a business to provide the best insights 

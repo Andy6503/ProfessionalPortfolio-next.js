@@ -1,8 +1,8 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import qualiaImg from '../public/assets/projects/qualia.jpg';
-import cryptoImg from '../public/assets/projects/crypto.jpg'
+import qualiaIconImg from '../public/assets/projects/qualiaIcon.jpg';
+import forhimsIconImg from '../public/assets/projects/forhimsIcon.jpg'
 import netflixImg from '../public/assets/projects/netflix.jpg'
 import twitchImg from '../public/assets/projects/twitch.jpg'
 import ProjectItem from './ProjectItem';
@@ -18,28 +18,13 @@ const Projects = () => {
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
             title='Qualia Mind Newsletter'
-            backgroundImg={qualiaImg}
+            backgroundImg={qualiaIconImg}
             projectUrl='/qualia'
           />
           <ProjectItem
-            title='Crypto App'
-            backgroundImg={cryptoImg}
-            projectUrl='/crypto'
-            tech='React JS'
-
-          />
-          <ProjectItem
-            title='Netflix App'
-            backgroundImg={netflixImg}
-            projectUrl='/netflix'
-            tech='React JS'
-
-          />
-          <ProjectItem
-            title='Twitch UI'
-            backgroundImg={twitchImg}
-            projectUrl='/twitch'
-            tech='Next JS'
+            title='ForHims Sales Page'
+            backgroundImg={forhimsIconImg}
+            projectUrl='/forhims'
 
           />
         </div>

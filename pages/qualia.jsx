@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import qualiaImg from '../public/assets/projects/qualia.jpg';
+import neuroImg from '../public/assets/projects/neuro.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
@@ -13,12 +13,12 @@ const property = () => {
           className='absolute z-1'
           layout='fill'
           objectFit='cover'
-          src={qualiaImg}
+          src={neuroImg}
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
           <h2 className='py-2'>Email Seqence for neurohackers.com</h2>
-          <h3>Spec ad/work</h3>
+          <h3>Spec Work</h3>
         </div>
       </div>
 
@@ -26,14 +26,11 @@ const property = () => {
         <div className='col-span-4'>
           <h2>Overview</h2>
           <p>
-            This app was built using React JS and is hosted on Firebase. Users
-            are able to search properties based on an Address, City, or ZIP code
-            to retrieve a list of active properties currently for sale. You will
-            be able to view property information as well as the specific
-            location of the property integrated with the Google Maps API. User
-            authentication is available so you can signup and signin to your
-            account with an email address in order to save your favorite
-            properties. This is made possible with Zillow API.
+          This is an email or newsletter sequence for neurohacker.com, specifically for their product Qualia Mind.
+          This email sequence is based on the user entering their email from a sales page that offered
+          a free PDF guide. The goal of this newsletter is to keep the reader engaged with the seller and
+          product while not being overly sales-focused. This sequence features a product launch, background
+          about the seller and product, a preorder sell, hard sells, and an inactivity sequence.
           </p>
           <a
             href='https://docs.google.com/document/d/1kQeSHeGPiarhUNP9CqeIc6WllC1pel02O-4ooZyEFAQ/edit?usp=sharing'
@@ -50,36 +47,9 @@ const property = () => {
             <button className='px-8 py-2 mt-4'>Product</button>
           </a>
         </div>
-        <div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl py-4'>
-          <div className='p-2'>
-            <p className='text-center font-bold pb-2'>Technologies</p>
-            <div className='grid grid-cols-3 md:grid-cols-1'>
-              <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> React
-              </p>
-              <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Tailwind
-              </p>
-              <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Javascript
-              </p>
-              <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Firebase
-              </p>
-              <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Google API
-              </p>
-              <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Zillow API
-              </p>
-            </div>
-          </div>
+        
         </div>
-        <Link href='/#projects'>
-          <p className='underline cursor-pointer'>Back</p>
-        </Link>
       </div>
-    </div>
   );
 };
 
