@@ -17,7 +17,7 @@ const property = () => {
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'>Email Seqence for neurohackers.com</h2>
+          <h2 className='py-2'>Email Seqence for Neurohackers.com</h2>
           <h3>Spec Work</h3>
         </div>
       </div>
@@ -26,7 +26,7 @@ const property = () => {
         <div className='col-span-4'>
           <h2>Overview</h2>
           <p>
-          This is an email or newsletter sequence for neurohacker.com, specifically for their product Qualia Mind.
+          This is an email or newsletter sequence for NeuroHacker, specifically for their product Qualia Mind.
           This email sequence is based on the user entering their email from a sales page that offered
           a free PDF guide. The goal of this newsletter is to keep the reader engaged with the seller and
           product while not being overly sales-focused. This sequence features a product launch, background

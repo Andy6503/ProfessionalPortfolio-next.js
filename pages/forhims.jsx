@@ -17,7 +17,7 @@ const crypto = () => {
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'>Forhims.com sales page</h2>
+          <h2 className='py-2'>Forhims.com Sales Page</h2>
           <h3>Spec Work</h3>
         </div>
       </div>
@@ -26,15 +26,10 @@ const crypto = () => {
         <div className='col-span-4'>
           <h2>Overview</h2>
           <p>
-            I built this app to demonstrate knowledge working in React JS and
-            accessing API endpoints. This app was built using React JS and is
-            hosted on Firebase. This application supports user authentication
-            using firebase. Users are able to create a new account using their
-            email address and can then sign in to save coins to a user specific
-            list. This is made possble by creating a firestore cloud storage
-            database at the time of user registration. Another feature of this
-            application is dynamic routing through the &quot;React Router DOM&quot;
-            package. This application was built using the Coin Gecko API.
+          This is a mock sales page created for ForHims, specifically their male hair loss treatment. This sales 
+          page aims to take the reader on a journey, gaining their email and compelling them to purchase the product by
+          offering a discount code. Through the use of pictures and vivid imagery, this sales page educates the reader on 
+          the specifics of male hair loss while simultaneously making it feel personalized to the reader.
           </p>
           <a
             href='https://docs.google.com/document/d/1RYsTTqwT0a-i8Cg0nnA7B0s3NRWjsAih9rlOr35ZhFk/edit?usp=sharing'

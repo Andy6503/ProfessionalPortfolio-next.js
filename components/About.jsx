@@ -15,18 +15,17 @@ const About = () => {
           <p className='py-2 text-gray-600'>
           I am a results-driven digital marketing expert and experienced front-end developer who specializes in breathing new life 
           into businesses. With a deep understanding of technologies such as HTML, CSS, Javascript, React, and more, I develop dynamic 
-          web applications and use this knowledge offer a superior approach to implementing online marketing strategies. I thrive on 
+          web applications and use this knowledge to offer a superior approach to implementing online marketing strategies. I thrive on 
           collaboration, working hand-in-hand with clients to achieve remarkable success. I believe the mark of a true digital marketing 
           expert is their ability to deliver tailored solutions that truly compel the reader to take action. Let's create greatness together.
           </p>
           <p className='py-2 text-gray-600'>
-          I embarked on my digital marketing journey in September 2022, driven by a deep desire to help those who bring geniune
-          value through their business find their audience. Every day since, I've immersed myself in refining my skills, crafting 
-          compelling emails, and creating captivating video scripts that command attention. I seek to improve and I hone my craft 
-          through hands-on experience, continuous learning, and staying at the forefront of industry trends. It's not just about 
-          knowing digital marketing; it's about understanding the intricacies and nuances that lead to undeniable success. I hold 
-          myself to the highest standards and won't deliver my work until I'm confident enough to stake my life on its ability to 
-          generate results for you.
+          I embarked on my digital marketing journey in September 2022, driven by a deep desire to help you, someone who brings genuine 
+          value through their business, find your audience. Every day since, I've immersed myself in refining my skills, crafting compelling 
+          emails, and creating captivating video scripts that command attention. I seek to improve and hone my craft through hands-on experience, 
+          continuous learning, and staying at the forefront of industry trends. It's not just about knowing digital marketing; it's about 
+          understanding the intricacies and nuances that lead to undeniable success. I hold myself to the highest standards and won't deliver 
+          my work until I'm confident enough to stake my life on its ability to generate results for you.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
