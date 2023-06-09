@@ -51,7 +51,7 @@ const resume = () => {
         <p>
           Innovative, analytical, and motivated digital marketing professional
           with experience in customer service, client relations, team leadership, 
-          front-end web development. Proven organizational effectiveness in fast-paced 
+          front-end web development, and API development. Proven organizational effectiveness in fast-paced 
           and challenging environments. Diverse market and competitor analytical skills,
           team collaboration experience, and relationship building methods. A consummate professional and 
           motivated leader with solid interpersonal abilities and complex problem-solving skills.
@@ -62,17 +62,22 @@ const resume = () => {
           <h5 className='text-center underline text-[18px] py-2'>Skills</h5>
           <p className='py-2'>
             <span className='font-bold'>Technical Skills</span>
-            <span className='px-2'>|</span>Front-End Web Developer
             <span className='px-2'>|</span>HTML
             <span className='px-2'>|</span>CSS
+            <span className='px-2'>|</span>Java
             <span className='px-2'>|</span>Javascript
             <span className='px-2'>|</span>React
+            <span className='px-2'>|</span>react-Bootstrap
             <span className='px-2'>|</span>Next JS
             <span className='px-2'>|</span>SQL
             <span className='px-2'>|</span>NoSQL
-            <span className='px-2'>|</span>Java
-            <span className='px-2'>|</span> Postman
-            <span className='px-2'>|</span> RESTAPI
+            <span className='px-2'>|</span>Agile
+            <span className='px-2'>|</span>Postman
+            <span className='px-2'>|</span>ARC
+            <span className='px-2'>|</span>RESTAPI
+            <span className='px-2'>|</span>Jenkins
+            <span className='px-2'>|</span>Anypoint Platform
+            
 
           </p>
           <p className='py-2'>
@@ -107,11 +112,11 @@ const resume = () => {
               VCS, Build tools, Jenkins, Project management, Agile basics, and basic coding skills.
             </li>
             <li>
-              Instructed on and successfully implemeted the usage of Anypoint Platform to discover, design,
+              Instructed on and successfully implemented the usage of Anypoint Platform to discover, design,
               build, deploy, manage, and govern APIs.
             </li>
             <li>
-               Will achieve a MuleSoft Developer Certification upon completion of the Intership and course.
+               Will achieve a MuleSoft Developer Certification upon completion of the Internship and course.
             </li>
           </ul>
         </div>
@@ -128,7 +133,7 @@ const resume = () => {
           <p className='py-1 italic'>Self-Employed (Septemeber 2022 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              Thousands of hours of experience conducting and practicing market research and competitor analysis 
+              Hundreds of hours of experience conducting and practicing market research and competitor analysis 
               to identify new opportunities and trends.
             </li>
             <li>
