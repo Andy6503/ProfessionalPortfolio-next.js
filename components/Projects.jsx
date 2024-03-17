@@ -16,17 +16,7 @@ const Projects = () => {
         </p>
         <h2 className='py-4'>What I&apos;ve made</h2>
         <div className='grid md:grid-cols-2 gap-8'>
-          <ProjectItem
-            title='Qualia Mind Newsletter'
-            backgroundImg={qualiaIconImg}
-            projectUrl='/qualia'
-          />
-          <ProjectItem
-            title='ForHims Sales Page'
-            backgroundImg={forhimsIconImg}
-            projectUrl='/forhims'
-
-          />
+          
         </div>
       </div>
     </div>

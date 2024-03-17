@@ -13,19 +13,22 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
-          I am a results-driven digital marketing expert and experienced front-end developer who specializes in breathing new life 
-          into businesses. With a deep understanding of technologies such as HTML, CSS, Javascript, React, and more, I develop dynamic 
-          web applications and use this knowledge to offer a superior approach to implementing online marketing strategies. I thrive on 
-          collaboration, working hand-in-hand with clients to achieve remarkable success. I believe the mark of a true digital marketing 
-          expert is their ability to deliver tailored solutions that truly compel the reader to take action. Let's create greatness together.
+           I am an accomplished MuleSoft Developer with a proven track record of cultivating strong customer and client relationships. 
+           My skills encompass MuleSoft API development, Anypoint Platform Development, and JavaScript programming. Through immersive 
+           experiences and hands-on projects, I continuously hone my abilities. Over the past three years, I've been on an ongoing journey
+           to push the boundaries of what's achievable in the digital landscape. While you may notice intermittent activity on my 
+           Github profile, it belies the countless hours I invest behind the scenes, striving for excellence and an unwavering 
+           commitment to enhance and expand my skill set. My extensive experience in teamwork, thriving under pressure, meeting 
+           deadlines, leadership, and expert time management lays the foundation for consistently delivering exceptional results. 
+           With a flexible demeanor, I adapt seamlessly to diverse environments, fostering collaboration and empowering those around
+           me to thrive.
           </p>
           <p className='py-2 text-gray-600'>
-          I embarked on my digital marketing journey in September 2022, driven by a deep desire to help you, someone who brings genuine 
-          value through their business, find your audience. Every day since, I've immersed myself in refining my skills, crafting compelling 
-          emails, and creating captivating video scripts that command attention. I seek to improve and hone my craft through hands-on experience, 
-          continuous learning, and staying at the forefront of industry trends. It's not just about knowing digital marketing; it's about 
-          understanding the intricacies and nuances that lead to undeniable success. I hold myself to the highest standards and won't deliver 
-          my work until I'm confident enough to stake my life on its ability to generate results for you.
+          I embarked on my programming journey in September 2020, driven by a deep desire to understand technology on a fundamental level 
+          to become an architect of the digital realm. Every day since, I've immersed myself in refining my skills, constructing numerous 
+          projects, and challenging myself to always look for ways to refine and improve. My approach involves a dedication to hands-on experience, 
+          continuous learning, and staying at the forefront of industry trends. It's not just about knowing how to write working code; it's about 
+          mastering the intricacies and nuances that lead to breakthroughs and undeniable success.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>

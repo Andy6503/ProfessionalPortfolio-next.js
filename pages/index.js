@@ -10,8 +10,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Andrew | Digital Marketing Expert</title>
-        <meta name="description" content="I’m a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences." />
+        <title>Andrew | Certified MuleSoft Developer</title>
+        <meta name="description" content="I’m a developer specializing in MuleSoft and API development." />
         <link rel="icon" href="/fav.png" />
       </Head>
     <Main />

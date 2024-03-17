@@ -28,10 +28,10 @@ const Contact = () => {
               </div>
               <div>
                 <h2 className='py-2'>Andrew Kapsa</h2>
-                <p>Digital Marketing Expert</p>
+                <p>Certified MuleSoft Developer</p>
                 <p className='py-4'>
-                  I am available for marketing consultations. Contact
-                  me and let&apos;s talk.
+                  I am currently looking for positions. Contact
+                  me and let&apos;s talk!
                 </p>
               </div>
               <div>

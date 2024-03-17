@@ -38,30 +38,29 @@ const resume = () => {
         <div className='text-center py-4 text-xl font-bold uppercase tracking-wider'>
           <div className='hidden sm:block'>
             <p>
-              Digital Marketing <span className='px-1'>|</span> Web Development{' '}
+              MuleSoft Developer <span className='px-1'>|</span> Web Development{' '}
               <span className='px-1'>|</span> Complex Problem Solving
             </p>
           </div>
           <div className='block sm:hidden'>
             <p>Web Development</p>
-            <p className='py-2'>Digital Marketing</p>
+            <p className='py-2'>MuleSoft Developer</p>
             <p>Complex Problem Solving</p>
           </div>
         </div>
         <p>
-          Innovative, analytical, and motivated digital marketing professional
+          Innovative, analytical, and motivated MuleSoft Developer
           with experience in customer service, client relations, team leadership, 
           front-end web development, and API development. Proven organizational effectiveness in fast-paced 
-          and challenging environments. Diverse market and competitor analytical skills,
-          team collaboration experience, and relationship building methods. A consummate professional and 
-          motivated leader with solid interpersonal abilities and complex problem-solving skills.
+          and challenging environments. Diverse analytical skills, team collaboration experience, and 
+          relationship building methods. A consummate professional and motivated leader with solid interpersonal 
+          abilities and complex problem-solving skills.
         </p>
 
         {/* Skills */}
         <div className='text-center py-4'>
-          <h5 className='text-center underline text-[18px] py-2'>Skills</h5>
+          <h5 className='text-center underline text-[18px] py-2'>Technial Skills</h5>
           <p className='py-2'>
-            <span className='font-bold'>Technical Skills</span>
             <span className='px-2'>|</span>HTML
             <span className='px-2'>|</span>CSS
             <span className='px-2'>|</span>Java
@@ -72,25 +71,13 @@ const resume = () => {
             <span className='px-2'>|</span>SQL
             <span className='px-2'>|</span>NoSQL
             <span className='px-2'>|</span>Agile
+            <span className='px-2'>|</span>MuleSoft
             <span className='px-2'>|</span>Postman
             <span className='px-2'>|</span>ARC
             <span className='px-2'>|</span>RESTAPI
             <span className='px-2'>|</span>Jenkins
             <span className='px-2'>|</span>Anypoint Platform
             
-
-          </p>
-          <p className='py-2'>
-            <span className='font-bold'>Marketing Skills</span>
-            <span className='px-2'>|</span>Copywriting
-            <span className='px-2'>|</span>Strategy Development
-            <span className='px-2'>|</span>Social Media Marketing
-            <span className='px-2'>|</span>Email Marketing
-            <span className='px-2'>|</span>Video Marketing
-            <span className='px-2'>|</span>Content Creation
-            <span className='px-2'>|</span>Market Research and Analysis
-            <span className='px-2'>|</span>Digital Marketing tools
-            <span className='px-2'>|</span>Communication
           </p>
         </div>
 
@@ -105,48 +92,29 @@ const resume = () => {
             </span>
             <span className='px-2'>|</span>New York, NY/Online
           </p>
-          <p className='py-1 italic'>MuleSoft Intern (March 2023 - Current)</p>
+          <p className='py-1 italic'>MuleSoft Intern (March 2023 - October 2023)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              Instructed on and successfully implemented the usage of Java programming language,
+              Acquired proficieny in the usage of Java programming language,
               VCS, Build tools, Jenkins, Project management, Agile basics, and basic coding skills.
             </li>
             <li>
-              Instructed on and successfully implemented the usage of Anypoint Platform to discover, design,
-              build, deploy, manage, and govern APIs.
+            Acquired proficiency in the Anypoint Platform for API discovery, design, development, deployment, 
+            and management through immersive training sessions and practical projects.
             </li>
             <li>
-               Will achieve a MuleSoft Developer Certification upon completion of the Internship and course.
+            Collaborated closely with senior developers and mentors to design and implement MuleSoft solutions, 
+            gaining insights into industry best practices and standards.
+            </li>
+            <li>
+            Successfully completed the MuleSoft Developer Level 1 Certification, demonstrating comprehensive 
+            knowledge and proficiency in MuleSoft technologies and frameworks.
             </li>
           </ul>
         </div>
 
 
         {/* Personal Experience */}
-        <div className='py-6'>
-          <p className='italic'>
-            <span className='font-bold italic'>
-              Copywriter and Digtial Marketing Expert
-            </span>
-            <span className='px-2'>|</span>New York, NY/Online
-          </p>
-          <p className='py-1 italic'>Self-Employed (Septemeber 2022 - Current)</p>
-          <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
-            <li>
-              Hundreds of hours of experience conducting and practicing market research and competitor analysis 
-              to identify new opportunities and trends.
-            </li>
-            <li>
-              Expert level experience in many forms of copy inculding email sequences, landing pages, sales funnels, 
-              product pages, sales pitches, and more. 
-            </li>
-            <li>
-              Able to work effectively with many different areas of a business to provide the best insights 
-              and most effective way to implement new strategies.
-            </li>
-          </ul>
-        </div>
-
         {/*  */}
         <h5 className='text-center underline text-[18px] py-4'>
           Other Professional Experience
@@ -161,13 +129,12 @@ const resume = () => {
           <p className='py-1 italic'>Private Dog Walker (November 2021 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              Required to meet certain time windows set out by the client and walk their dog or dogs for 
-              any amount of time between 20 minutes to an overnight stay.
+            Successfully completed over 2400 private dog walks, receiving multiple 5-star reviews from clients 
+            for exceptional service and dedication to pet care.
             </li>
             <li>
-              I conduct myself in a friendly and professional manner while speaking with clients about their wants 
-              and needs for their pets. I always make sure to cover everything I need to know to provide the best 
-              care and experience for their dog or dogs.
+            Effectively managed time and schedules to accommodate client preferences and ensure timely completion of 
+            walks, regardless of weather conditions.
             </li>
             <li>
               Handled countless dogs with all types of behaviors and triggers in a professional manner. I have received 
@@ -175,11 +142,11 @@ const resume = () => {
               and still bond with them. 
             </li>
             <li>
-              Provided above and beyond service to ensure best walk for the dog or dogs everytime. Paying 
-              attention to their reactions and responses, I always make sure to do what the dog enjoys most.
+            Developed strong communication and interpersonal skills through regular interaction with clients and their pets, 
+            fostering trust and loyalty.
             </li>
             <li>
-             I always make sure to conduct myself in a professional and respectful manner when entering or
+             I always conduct myself in a professional and respectful manner when entering, exiting, or
              staying in a client home.
             </li>
           </ul>
@@ -193,22 +160,16 @@ const resume = () => {
           <p className='py-1 italic'>Crew Member (May 2020 - September 2021)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-            I worked mostly as a cashier and was required to handle all transactions both in person and online. I maintained a 
-            friendly attitude even when handling many transactions at once to ensure the best experience.
+            Processed an average of 100+ daily online and in-person customer transactions with a personable approach
             </li>
             <li>
-            I was responsible for cleaning and maintaining the lobby. I would sweep, mop, wipe, and stock while maintaining an 
-            efficient and smooth flow of business. I was also responsible for preparing my station for the next shift, which 
-            included deep cleaning, preping, stocking, and counting my cash drawer. 
+            Managed cash transactions and end-of-shift accounting procedures with precision, using Microsoft Excel and restaurant systems.
             </li>
             <li>
-            I was also stationed on the line some days. In this position, I was responsible for taking and preparing orders for 
-            both in person and online customers. I was required to keep my station clean and stocked while following all food safety 
-            rules.
+            Collaborated with team members to ensure smooth operation of the restaurant and timely delivery of orders during busy periods.
             </li>
             <li>
-              I would always find away to stay busy and made sure to help out when the need arose. I did my best to work well with
-              everyone keep a funny and fun attitude with my coworkers and managers.
+            Maintained a positive, level-headed, and proactive mindset during both peak hours and off-peak hours.
             </li>
           </ul>
         </div>

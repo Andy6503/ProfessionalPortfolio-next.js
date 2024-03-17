@@ -1,13 +1,14 @@
 import Image from 'next/image';
 import React from 'react';
-import VidMark from '../public/assets/skills/videoMarketing.png';
-import Copy from '../public/assets/skills/copywriting.png';
-import EmMark from '../public/assets/skills/emailMarketing.png';
-import MarkRe from '../public/assets/skills/marketResearch.png';
-import MarkAn from '../public/assets/skills/marketAnalysis.png';
-import StratDev from '../public/assets/skills/strategyDevelopment.png';
-import Consult from '../public/assets/skills/consulting.png';
-import SocialM from '../public/assets/skills/socialMedia.png'
+import JavaS from '../public/assets/skills/javascript.png';
+import ReactJ from '../public/assets/skills/react.png';
+import Api from '../public/assets/skills/api.png'
+import Sql from '../public/assets/skills/sql.png';
+import Agile from '../public/assets/skills/agile.png';
+import Arc from '../public/assets/skills/ARC.png';
+import MuleS from '../public/assets/skills/mulesoft.png';
+import Mule from '../public/assets/skills/Mule.png';
+
 
 
 const Skills = () => {
@@ -22,80 +23,80 @@ const Skills = () => {
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <Image src={VidMark} width='64px' height='64px' alt='/' />
+                <Image src={JavaS} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>Video Marketing</h3>
+                <h3>JavaScript</h3>
               </div>
             </div>
           </div>
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <Image src={EmMark} width='64px' height='64px' alt='/' />
+                <Image src={ReactJ} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>Email Marketing</h3>
+                <h3>React JS</h3>
               </div>
             </div>
           </div>
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <Image src={SocialM} width='64px' height='64px' alt='/' />
+                <Image src={Api} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>Social Media Marketing</h3>
+                <h3>API Development</h3>
               </div>
             </div>
           </div>
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <Image src={Copy} width='64px' height='64px' alt='/' />
+                <Image src={Sql} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>Copywriting</h3>
+                <h3>Structured Query Language</h3>
               </div>
             </div>
           </div>
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <Image src={MarkRe} width='64px' height='64px' alt='/' />
+                <Image src={Agile} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>Market Research</h3>
+                <h3>Agile Development</h3>
               </div>
             </div>
           </div>
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <Image src={MarkAn} width='64px' height='64px' alt='/' />
+                <Image src={Arc} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>Market Analysis</h3>
+                <h3>Advanced Rest Client</h3>
               </div>
             </div>
           </div>
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <Image src={StratDev} width='64px' height='64px' alt='/' />
+                <Image src={MuleS} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>Strategy Development</h3>
+                <h3>Anypoint Platform</h3>
               </div>
             </div>
           </div>
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <Image src={Consult} width='64px' height='64px' alt='/' />
+                <Image src={Mule} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>Consulting & Collaboration</h3>
+                <h3>Mule 3 & 4</h3>
               </div>
             </div>
           </div>
