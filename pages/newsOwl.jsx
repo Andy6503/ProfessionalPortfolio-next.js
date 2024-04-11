@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import neuroImg from '../public/assets/projects/neuro.png';
+import frontpage from '../public/assets/projects/NewsOwlFrontpage.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
@@ -13,12 +13,12 @@ const property = () => {
           className='absolute z-1'
           layout='fill'
           objectFit='cover'
-          src={neuroImg}
+          src={frontpage}
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'>Email Seqence for Neurohackers.com</h2>
-          <h3>Spec Work</h3>
+          <h2 className='py-2'>News Owl</h2>
+          <h3>React / react-Bootstrap</h3>
         </div>
       </div>
 
@@ -26,25 +26,25 @@ const property = () => {
         <div className='col-span-4'>
           <h2>Overview</h2>
           <p>
-          This is an email or newsletter sequence for NeuroHacker, specifically for their product Qualia Mind.
-          This email sequence is based on the user entering their email from a sales page that offered
-          a free PDF guide. The goal of this newsletter is to keep the reader engaged with the seller and
-          product while not being overly sales-focused. This sequence features a product launch, background
-          about the seller and product, a preorder sell, hard sells, and an inactivity sequence.
+          This app was co-developed using ReactJS and React technologies. Users are able to easily
+          view and search for almost any news article. Using a public news API, the app has access to thousands of
+          of articles and will automatically update with the latest news. The user is also able to create
+          custom articles that will be saved on a separate page. The user is also able to "favorite" articles,
+          causing them to be saved and displayed on the "favorites" page until the user removes them.
           </p>
           <a
-            href='https://docs.google.com/document/d/1kQeSHeGPiarhUNP9CqeIc6WllC1pel02O-4ooZyEFAQ/edit?usp=sharing'
+            href='https://github.com/Andy6503/news-owl'
             target='_blank'
             rel='noreferrer'
           >
-            <button className='px-8 py-2 mt-4 mr-8'>Document</button>
+            <button className='px-8 py-2 mt-4 mr-8'>Github</button>
           </a>
           <a
-            href='https://neurohacker.com/shop/qualia-mind'
+            href='https://www.youtube.com/watch?v=JPqR4TH3tck'
             target='_blank'
             rel='noreferrer'
           >
-            <button className='px-8 py-2 mt-4'>Product</button>
+            <button className='px-8 py-2 mt-4'>Demo</button>
           </a>
         </div>
         

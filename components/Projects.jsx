@@ -1,10 +1,8 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import qualiaIconImg from '../public/assets/projects/qualiaIcon.jpg';
-import forhimsIconImg from '../public/assets/projects/forhimsIcon.jpg'
-import netflixImg from '../public/assets/projects/netflix.jpg'
-import twitchImg from '../public/assets/projects/twitch.jpg'
+import NewsOwlIcon from '../public/assets/projects/NewsOwlLogo.png';
+import CCleanerLogo from '../public/assets/projects/CCleanerLogo.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -17,6 +15,21 @@ const Projects = () => {
         <h2 className='py-4'>What I&apos;ve made</h2>
         <div className='grid md:grid-cols-2 gap-8'>
           
+          <ProjectItem
+           title='News Owl Website'
+           backgroundImg={NewsOwlIcon}
+           projectUrl='/newsOwl'
+           tech= 'React JS'
+
+          />
+
+          <ProjectItem 
+          title='Corporate Cleaner Website'
+          backgroundImg={CCleanerLogo}
+          projectUrl='/corporateCleaner'
+          tech= 'React JS & Ruby'
+          
+          />
         </div>
       </div>
     </div>
