@@ -49,35 +49,26 @@ const resume = () => {
           </div>
         </div>
         <p>
-          Innovative, analytical, and motivated MuleSoft Developer
-          with experience in customer service, client relations, team leadership, 
-          front-end web development, and API development. Proven organizational effectiveness in fast-paced 
-          and challenging environments. Diverse analytical skills, team collaboration experience, and 
-          relationship building methods. A consummate professional and motivated leader with solid interpersonal 
-          abilities and complex problem-solving skills.
+        Innovative and results-oriented MuleSoft Developer with experience in software development, specializing in API design
+        and system integrations. Proven track record in utilizing Agile methodologies to deliver highly effective and creative
+        solutions to business challenges. Passionate about enhancing system efficiencies and deploying scalable technology
+        solutions.My extensive experience in teamwork, thriving under pressure, meeting deadlines, leadership, and expert time
+        management lays the foundation for consistently delivering exceptional results
         </p>
 
         {/* Skills */}
         <div className='text-center py-4'>
           <h5 className='text-center underline text-[18px] py-2'>Technial Skills</h5>
           <p className='py-2'>
-            <span className='px-2'>|</span>HTML
-            <span className='px-2'>|</span>CSS
-            <span className='px-2'>|</span>Java
-            <span className='px-2'>|</span>Javascript
-            <span className='px-2'>|</span>React
-            <span className='px-2'>|</span>react-Bootstrap
-            <span className='px-2'>|</span>Next JS
-            <span className='px-2'>|</span>SQL
-            <span className='px-2'>|</span>NoSQL
-            <span className='px-2'>|</span>Agile
-            <span className='px-2'>|</span>MuleSoft
-            <span className='px-2'>|</span>Postman
-            <span className='px-2'>|</span>ARC
-            <span className='px-2'>|</span>RESTAPI
-            <span className='px-2'>|</span>Jenkins
-            <span className='px-2'>|</span>Anypoint Platform
-            
+            <li>
+          <b>Languages:</b> Java, JavaScript, Ruby, SQL, HTML, CSS
+          </li>
+          <li>
+          <b>Frameworks/Tools:</b> React, Next.js, Rails, Anypoint Platform, Mule 4, Anypoint Studio, Jenkins, Postman
+          </li>
+          <li>
+          <b>Certifications:</b> MuleSoft Certified Developer - Level 1
+          </li>
           </p>
         </div>
 
@@ -90,7 +81,7 @@ const resume = () => {
             <span className='font-bold italic'>
             APISERO INC
             </span>
-            <span className='px-2'>|</span>New York, NY/Online
+            <span className='px-2'>|</span>Remote
           </p>
           <p className='py-1 italic'>MuleSoft Intern (March 2023 - October 2023)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
@@ -107,8 +98,8 @@ const resume = () => {
             gaining insights into industry best practices and standards.
             </li>
             <li>
-            Successfully completed the MuleSoft Developer Level 1 Certification, demonstrating comprehensive 
-            knowledge and proficiency in MuleSoft technologies and frameworks.
+            Achieved certification as a MuleSoft Developer - Level 1 by mastering integration applications and API development
+            under the rigorous Greenfield Training program.
             </li>
           </ul>
         </div>
@@ -129,17 +120,16 @@ const resume = () => {
           <p className='py-1 italic'>Private Dog Walker (November 2021 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-            Successfully completed over 2400 private dog walks, receiving multiple 5-star reviews from clients 
-            for exceptional service and dedication to pet care.
+            Successfully completed over 2700 private dog walks, receiving multiple 5-star reviews from clients for exceptional
+            service and dedication to pet care
             </li>
             <li>
-            Effectively managed time and schedules to accommodate client preferences and ensure timely completion of 
-            walks, regardless of weather conditions.
+            Optimized scheduling and operational efficiency, ensuring 100% client satisfaction even under challenging weather
+            conditions
             </li>
             <li>
-              Handled countless dogs with all types of behaviors and triggers in a professional manner. I have received 
-              countless compliments from clients on my friendly attitude and my ability to handle their pets effectively 
-              and still bond with them. 
+            Established a trusted brand of reliable and personalized service, which resulted in a client base expansion through
+            referrals
             </li>
             <li>
             Developed strong communication and interpersonal skills through regular interaction with clients and their pets, 
