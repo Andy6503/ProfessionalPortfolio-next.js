@@ -120,7 +120,7 @@ const resume = () => {
           <p className='py-1 italic'>Private Dog Walker (November 2021 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-            Successfully completed over 2700 private dog walks, receiving multiple 5-star reviews from clients for exceptional
+            Successfully completed over 3300 private dog walks, receiving multiple 5-star reviews from clients for exceptional
             service and dedication to pet care
             </li>
             <li>
