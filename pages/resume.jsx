@@ -90,16 +90,16 @@ const resume = () => {
               VCS, Build tools, Jenkins, Project management, Agile basics, and basic coding skills.
             </li>
             <li>
-            Acquired proficiency in the Anypoint Platform for API discovery, design, development, deployment, 
-            and management through immersive training sessions and practical projects.
+            Acquired in-depth knowledge of the Anypoint Platform by developing mock APIs for complex, hypothetical business scenarios, 
+            simulating real-world integration challenges and enhancing problem-solving skills in API design.
             </li>
             <li>
-            Collaborated closely with senior developers and mentors to design and implement MuleSoft solutions, 
-            gaining insights into industry best practices and standards.
+            Worked alongside senior developers to create custom APIs for simulated business cases, 
+            enhancing communication flows between software products while adhering to best practices and standards.
             </li>
             <li>
-            Achieved certification as a MuleSoft Developer - Level 1 by mastering integration applications and API development
-            under the rigorous Greenfield Training program.
+            Achieved MuleSoft Developer - Level 1 certification after completing the intensive Greenfield Training program,
+             mastering scalable API development techniques that enable reliable integration solutions.
             </li>
           </ul>
         </div>
@@ -120,16 +120,16 @@ const resume = () => {
           <p className='py-1 italic'>Private Dog Walker (November 2021 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-            Successfully completed over 3300 private dog walks, receiving multiple 5-star reviews from clients for exceptional
-            service and dedication to pet care
+            Completed over 3,650 private dog walks, achieving a consistent 5-star rating by tailoring care to 
+            each dog's needs and proactively communicating with clients to ensure their satisfaction.
             </li>
             <li>
-            Optimized scheduling and operational efficiency, ensuring 100% client satisfaction even under challenging weather
-            conditions
+            Improved scheduling efficiency by organizing nearby walks into clusters, reducing transit time and enabling punctual arrivals, 
+            achieving 100% client satisfaction even during adverse weather.
             </li>
             <li>
-            Established a trusted brand of reliable and personalized service, which resulted in a client base expansion through
-            referrals
+            Built a trusted reputation that led to an increase in client base through word-of-mouth referrals, 
+            driven by personalized service and a commitment to client satisfaction.
             </li>
             <li>
             Developed strong communication and interpersonal skills through regular interaction with clients and their pets, 
@@ -150,13 +150,15 @@ const resume = () => {
           <p className='py-1 italic'>Crew Member (May 2020 - September 2021)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-            Processed an average of 100+ daily online and in-person customer transactions with a personable approach
+            Efficiently processed over 100 daily customer transactions, ensuring a high level of 
+            accuracy and personalized service to enhance customer satisfaction.
             </li>
             <li>
             Managed cash transactions and end-of-shift accounting procedures with precision, using Microsoft Excel and restaurant systems.
             </li>
             <li>
-            Collaborated with team members to ensure smooth operation of the restaurant and timely delivery of orders during busy periods.
+            Collaborated with the team to streamline restaurant operations, reducing order processing times by 20% during peak hours and boosting 
+            overall service efficiency and customer satisfaction.
             </li>
             <li>
             Maintained a positive, level-headed, and proactive mindset during both peak hours and off-peak hours.
